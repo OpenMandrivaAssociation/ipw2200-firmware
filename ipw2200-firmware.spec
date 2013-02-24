@@ -1,6 +1,6 @@
 Name: ipw2200-firmware
 Version: 3.1
-Release: %mkrel 2
+Release: 3
 Summary: Intel PRO/Wireless 2200BG firmware
 Source: ipw2200-fw-%{version}.tgz
 License: Proprietary
