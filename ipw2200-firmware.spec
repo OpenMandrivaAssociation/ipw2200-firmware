@@ -5,7 +5,7 @@ Summary: Intel PRO/Wireless 2200BG firmware
 Source: ipw2200-fw-%{version}.tgz
 License: Proprietary
 Group: System/Kernel and hardware
-URL: http://ipw2200.sourceforge.net
+URL: https://ipw2200.sourceforge.net
 BuildRoot: %{_tmppath}/%{name}-%{version}
 BuildArch: noarch
 
